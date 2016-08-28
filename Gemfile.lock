@@ -130,8 +130,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 93)
-  json
+  github-pages
+  minima
 
 RUBY VERSION
    ruby 2.3.1p112
